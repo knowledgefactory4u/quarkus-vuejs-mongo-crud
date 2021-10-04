@@ -1,0 +1,1 @@
+# quarkus-vuejs-mongo-crud
