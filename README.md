@@ -1,4 +1,5 @@
 # quarkus-vuejs-mongo-crud
 
-For running the application on your local machine, Refer this page
-https://www.knowledgefactory.net/2021/10/quarkus-vuejs-mongodb-crud-example.html
+# Local environment setup
+# <a href="https://www.knowledgefactory.net/2021/10/quarkus-vuejs-mongodb-crud-example.html">Click here</a>
+
